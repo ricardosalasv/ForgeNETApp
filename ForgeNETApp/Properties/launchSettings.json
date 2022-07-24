@@ -23,7 +23,7 @@
         " FORGE_CLIENT_ID": "R6TTMyAMXGFf74GKppJpBbK4KAurCibC",
         "FORGE_CALLBACK_URL": "http://localhost:3000/api/forge/callback/oauth",
         "ASPNETCORE_URLS": "http://localhost:3000",
-        " FORGE_CLIENT_SECRET": "M2rp43GMYbH2FEvY"
+        " FORGE_CLIENT_SECRET": "Qe52040cef397452"
       },
       "applicationUrl": "https://localhost:5001;http://localhost:5000"
     }
